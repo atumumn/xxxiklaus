@@ -26,9 +26,7 @@
   
   
   
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=xxxiklaus&show_icons=true&count_private=true" alt="xxxiklaus" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Xxxiklaus.Xxxiklaus" alt="visitors"></p>
+
 
 
 <!--
@@ -44,6 +42,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=xxxiklaus&show_icons=true&count_private=true" alt="xxxiklaus" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Xxxiklaus.Xxxiklaus" alt="visitors"></p>
 -->
 
 
