@@ -8,8 +8,6 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-
-
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="30" height="30" />
@@ -23,6 +21,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
 
+  
+  
+  
+  
+  
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=xxxiklaus&show_icons=true&count_private=true" alt="xxxiklaus" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Xxxiklaus.Xxxiklaus" alt="visitors"></p>
