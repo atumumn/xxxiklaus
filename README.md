@@ -21,7 +21,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
 
-  
+<samp>
+    <p align="left">
+        
+       
+        "Happy Learning!"
+        "Happy Coding👨‍💻!"
+       "Happy Cooperation!"
+    
+</samp>  
   
   
   
