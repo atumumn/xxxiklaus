@@ -1,10 +1,16 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
+</div>
+
 ### Hi, I'm klaus 👋
 
-
 👀 I’m interested in golang,mysql,network  
-🌱 I’m currently learning gin,MongoDB,docker   
+🌱 I’m currently learning gin,vue3,docker   
 📫 How to reach me : pilw818@gmail.com
-<p>Graduated in 2022 , undergraduate majored in automation. keen on programming and new technologies, in continuous learning and progress.</p>
+<p>
+Graduated in 2022 , undergraduate majored in automation.     
+keen on programming and new technologies, in continuous learning and progress.
+</p>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
