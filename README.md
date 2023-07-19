@@ -5,7 +5,7 @@
 <h1> Hi, I'm klaus 👋 </h1>
 
 👀 I’m interested in golang,mysql,network  
-🌱 I’m currently learning gRPC,docker，k8s   
+🌱 I’m currently learning gRPC,docker,k8s   
 📫 How to reach me : pilw818@gmail.com
 
 - Graduated in 2022 , undergraduate majored in automation.  
